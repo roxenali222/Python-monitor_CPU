@@ -61,3 +61,4 @@ def draw_monitor(stdscr):
 
 if __name__ == "__main__":
     curses.wrapper(draw_monitor)
+    
